@@ -17,17 +17,17 @@ The data of the UFO sitings was stored in a javascript file. An application was 
 
 To use this webpage for UFO analysis, a user can filter based on one or several search criteria. First, notice that there are 5 unique search criteria in the left panel of the webpage:
 
-![All Filters](../UFOs/images/All_Filters.png)
+![All Filters](/static/images//UFOs/images/All_Filters.png)
 
 Then reference the placeholder text within the filter input boxes to know what is the proper format for entering search criteria. For example, the placeholder text for state is `ca`, so one can run a similar search to find all UFOs in the state of Texas by entering `tx` and then hitting `Enter` on one's keyboard. 
 
-![Texas Filter](../images/Texas_Filter.png)
+![Texas Filter](/static/images/Texas_Filter.png)
 
 To clear the UFO search criteria and return to the original state of the data table, simply delete the search criteria entered and hit `Enter` on one's keyboard again.
 
 You can also search the UFO dataset by entering multiple criteria at once. Enter as many criteria as you want, and then hit `Enter` to get the results. In this example, the UFO dataset was filtered by triangle shaped UFOs spotted in California on 1/1/2010. It was an active day for aliens in CA!
 
-![Multiple Filters](../images/Texas_Filter.png)
+![Multiple Filters](/static/images/Texas_Filter.png)
 
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
