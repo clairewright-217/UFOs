@@ -17,7 +17,7 @@ The data of the UFO sitings was stored in a javascript file. An application was 
 
 To use this webpage for UFO analysis, a user can filter based on one or several search criteria. First, notice that there are 5 unique search criteria in the left panel of the webpage:
 
-![All Filters](../images/All_Filters.png)
+![All Filters](/images/All_Filters.png)
 
 Then reference the placeholder text within the filter input boxes to know what is the proper format for entering search criteria. For example, the placeholder text for state is `ca`, so one can run a similar search to find all UFOs in the state of Texas by entering `tx` and then hitting `Enter` on one's keyboard. 
 
