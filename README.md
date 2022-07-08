@@ -13,24 +13,27 @@ The data of the UFO sitings was stored in a javascript file. An application was 
 - HTML
 - CSS
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+## Results
 
 To use this webpage for UFO analysis, a user can filter based on one or several search criteria. First, notice that there are 5 unique search criteria in the left panel of the webpage:
 
+**Filter Options** 
 ![All Filters](/static/images/All_Filters.png)
 
 Then reference the placeholder text within the filter input boxes to know what is the proper format for entering search criteria. For example, the placeholder text for state is `ca`, so one can run a similar search to find all UFOs in the state of Texas by entering `tx` and then hitting `Enter` on one's keyboard. 
 
+**Filter by State**
 ![Texas Filter](/static/images/Texas_Filter.png)
 
 To clear the UFO search criteria and return to the original state of the data table, simply delete the search criteria entered and hit `Enter` on one's keyboard again.
 
 You can also search the UFO dataset by entering multiple criteria at once. Enter as many criteria as you want, and then hit `Enter` to get the results. In this example, the UFO dataset was filtered by triangle shaped UFOs spotted in California on 1/1/2010. It was an active day for aliens in CA!
 
+**Filter by Multiple Criteria**
 ![Multiple Filters](/static/images/Texas_Filter.png)
 
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary
 
 The webpage design allows for dynamic searching of UFO data using the filters feature. However, one drawback is that the comprehensive list of filter options is not clear. For example, how does a user know which countries they can search for to find data on UFO sitings? Besides the `us` placeholder for the country filter, it's not possible to tell which other countries are included in the dataset. The same goes for all of the other filter options.
 
